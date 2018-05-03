@@ -1,4 +1,4 @@
-
+window.onload = function() {
   var input = document.querySelector(".input"),
       del = document.querySelector(".del"),
       click = document.querySelector(".click"),
@@ -67,4 +67,4 @@ var valueIn = document.getElementById("value-input").value;
   }
 
 
-
+};
