@@ -47,7 +47,7 @@ var valueIn = document.getElementById("value-input").value;
 
     
     
-    console.log(item);
+//     console.log(item);
     var ul = document.querySelector("ul");
     ul.appendChild(item);
     input.value = "";
